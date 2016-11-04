@@ -38,7 +38,16 @@ Vector:
 - SVG Code = The greatest thing ever. Can't be directly exported from Sketch, but developers can open .SVG files in their code editors to grab it. Same benefits as SVG, but can also be manipulated with CSS and JavaScript.
 
 #### Size:
-1x = Normal for RASTERIZED 
+
+Rasterized:
+
+1x = Normal size. Exactly how it is in the artboard.
+
+2x = Double the dimensions of the width and height - so technically 4x the size. This is how you make retina iamges - the developer will then use CSS to squish the image back down to half the size, making the image super dense with pixels. The result is a super clean rasterized image.
+
+Vector:
+
+Vector images like SVGs are not affected by size - they're infinitely scalable.
 
 
 
