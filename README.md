@@ -29,7 +29,7 @@ Choose the exact layer your image is on, and only export what you need - trim th
 
 - PNG = Standard for most icons/graphics. Has background opacity, so that circular/non-square icons do not have a solid color background, but instead pick up the color of whatever is behind it
 
-- GIF = Not used for much anymore. Except for animated gifs, of course.
+- GIF = Not used for much anymore. [Except for animated gifs, of course](https://media.giphy.com/media/Y8ocCgwtdj29O/giphy.gif).
 
 #### Vector:
 
