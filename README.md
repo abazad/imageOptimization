@@ -43,7 +43,7 @@ Choose the exact layer your image is on, and only export what you need - trim th
 
 1x = Normal size. Exactly how it is in the artboard.
 
-2x = Double the dimensions of the width and height - so technically 4x the size. This is how you make retina iamges - the developer will then use CSS to squish the image back down to half the size, making the image super dense with pixels. The result is a super clean rasterized image.
+2x = Double the dimensions of the width and height - so technically 4x the size. This is how you make retina images - the developer will then use CSS to squish the image back down to half the size, making the image super dense with pixels. The result is a super clean rasterized image.
 
 #### Vector:
 
