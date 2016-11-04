@@ -49,6 +49,12 @@ Choose the exact layer your image is on, and only export what you need - trim th
 
 Vector images like SVGs are not affected by size - they're infinitely scalable.
 
+## What should I name it?
+- **Something logical.** The name should tell you what the image is without opening it.
+- **No Version numbers.** Don't make developers compare versions, that's your job. Also, version numbers make for bad, inspecific code.
+- **No Spaces.** Spaces are hard to recreate in code. It will almost always cause some kind of error. 
+
+
 
 
 
